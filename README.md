@@ -6,8 +6,11 @@ Climate Prediction Challenges with Machine Learning course at Columbia Universit
 ## Repo Structure
 
 │── README.md
+
 │── project1/
+
 │     └── hurricanes.ipynb   # Full analysis and results
+
 │     └── data/              # Raw and processed data
 
 ## Problem & Motivation
