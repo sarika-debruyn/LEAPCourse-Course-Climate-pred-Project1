@@ -4,12 +4,12 @@
 Climate Prediction Challenges with Machine Learning course at Columbia University. We analyze how the Atlantic Multidecadal Oscillation (AMO) and El Niño–Southern Oscillation (ENSO) shape hurricane frequency, intensity, and tracks in the North Atlantic (1950–2020). Using higher-order moment (“mass moment”) features of hurricane tracks and K-Means clustering, we uncover distinct storm archetypes and quantify phase-dependent differences. Results indicate AMO warm phases concentrate more frequent and more intense storms, while ENSO modulates yearly activity (La Niña ↑, El Niño ↓).
 
 ## Repo Structure
-
+```text
 │── README.md
 │── project1/
 │     └── hurricanes.ipynb   # Full analysis and results
 │     └── data/              # Raw and processed data
-
+```
 ## Problem & Motivation
 Hurricane behavior has shifted under warming: frequency, intensity, and trajectories vary in ways tied to basin-scale climate oscillations. Traditional statistics often miss non-linear, shape-based structure in tracks. We ask: How do AMO/ENSO phases relate to storm intensity distributions and track archetypes?
 
